@@ -6,7 +6,12 @@ Student Facilitator: Chirag Dixit – chirag.dixit@email.ucr.edu
 Faculty Mentor: Dr. Deborah Wong – dwong@ucr.edu  
 
 ## Course Summary
-This course will introduce students to the basics of Hindustani Classical Music through vocal instruction. No musical experience is necessary. Students will be exposed to the concepts of raaga (distinct melodies) and taala (rhythmic cycles). These basic building blocks will be learned through different forms of Hindustani music such as Dhrupad and Khayal. Students will also learn to improvise, a major part of Indian music, in different raagas and styles. This course will focus on vocal performance with a little bit of theory.
+This course will introduce students to the basics of Hindustani Classical Music through vocal instruction.
+No musical experience is necessary.
+Students will be exposed to the concepts of raaga (distinct melodies) and taala (rhythmic cycles).
+These basic building blocks will be learned through different forms of Hindustani music such as Dhrupad and Khayal.
+Students will also learn to improvise, a major part of Indian music, in different raagas and styles.
+This course will focus on vocal performance with a little bit of theory.
 
 ## Course Objectives
 * Understand what Indian Classical Music is, its different forms, what makes it “classical”, basic history, etc.
@@ -15,11 +20,14 @@ This course will introduce students to the basics of Hindustani Classical Music 
 * Most importantly, gain an appreciation for Indian Classical Music and music from different cultures.
 
 ## Assignments/Reading
-Practice 2 hours/week. Various recordings and videos online will be assigned for students to understand the various dimensions of Indian Classical Music.  
-Some reading will be assigned from The Raga Guide by Joep Bor and Music in North India by George E. Ruckert. Materials will be provided.
+Practice 2 hours/week.
+Various recordings and videos online will be assigned for students to understand the various dimensions of Indian Classical Music.
+Some reading will be assigned from The Raga Guide by Joep Bor and Music in North India by George E. Ruckert.
+Materials will be provided.
 
 ## Tests/Projects
-The final will be a final group performance which students will prepare for inside and outside the classroom demonstrating musical and theoretical knowledge. Each student will have an individual role in the group performance.
+The final will be a final group performance which students will prepare for inside and outside the classroom demonstrating musical and theoretical knowledge.
+Each student will have an individual role in the group performance.
 
 ## Grading
 Attendance – 30%  
@@ -138,7 +146,7 @@ Final – 25%
   <tr>
     <td>Week 10<br></td>
     <td>Final Performance:<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;Dhrupad composition, 
+        Dhrupad composition, 
         Khayal bandish with taans
     </td>
     <td>
