@@ -29,11 +29,7 @@ Participation – 45%
 Final – 25%  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparation. Individual taans.
 
-&nbsp;  
-&nbsp;   
-
 ## Calendar
-
 
 <table>
   <tr>
