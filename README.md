@@ -138,7 +138,7 @@ Final – 25%
   <tr>
     <td>Week 10<br></td>
     <td>Final Performance:<br>
-        Dhrupad composition, 
+        &nbsp;&nbsp;&nbsp;&nbsp;Dhrupad composition, 
         Khayal bandish with taans
     </td>
     <td>
