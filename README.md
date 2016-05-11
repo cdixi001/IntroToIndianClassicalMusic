@@ -45,7 +45,7 @@ Final – 25%
   <tr>
     <td>Week 1<br></td>
     <td>Introduction to Hindustani Classical Music:<br>
-        <pre>theory, history, note practice</pre>
+        &nbsp;&nbsp;&nbsp;&nbsp;theory, history, note practice
     </td>
     <td>https://www.youtube.com/watch?v=hg6nTQFHf78 Pandit Ravi Shankar<br>
         https://www.youtube.com/watch?v=bKOGFXvTY5E Raga Nand (Anandi Kalyan)<br>
