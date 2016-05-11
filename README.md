@@ -45,7 +45,7 @@ Final – 25%
   <tr>
     <td>Week 1<br></td>
     <td>Introduction to Hindustani Classical Music:<br>
-        theory, history, note practice
+        <pre>theory, history, note practice</pre>
     </td>
     <td>https://www.youtube.com/watch?v=hg6nTQFHf78 Pandit Ravi Shankar<br>
         https://www.youtube.com/watch?v=bKOGFXvTY5E Raga Nand (Anandi Kalyan)<br>
@@ -57,7 +57,7 @@ Final – 25%
   <tr>
     <td>Week 2<br></td>
     <td>Basics of a Raaga:<br>
-        aaroh, avroh, note practice (palTa)
+        &nbsp;&nbsp;&nbsp;&nbsp;aaroh, avroh, note practice (palTa)
     </td>
     <td>https://www.youtube.com/watch?v=vdcdbyGLz2M Pandit Nikhil Banerjee<br>
         http://www.metmuseum.org/toah/hd/indi/hd_indi.htm Indian Instruments
@@ -67,7 +67,7 @@ Final – 25%
   <tr>
     <td>Week 3<br></td>
     <td>Introduction to Dhrupad:<br>
-        Composition in Raga Bhoopali
+        &nbsp;&nbsp;&nbsp;&nbsp;Composition in Raga Bhoopali
     </td>
     <td>https://www.youtube.com/watch?v=0S-ca4pSLYY<br>
         <u>The Raga Guide</u>: Raga Bhupali
@@ -77,7 +77,7 @@ Final – 25%
   <tr>
     <td>Week 4<br></td>
     <td>Dhrupad Composition Practice:<br>
-        Structure of compositions
+        &nbsp;&nbsp;&nbsp;&nbsp;Structure of compositions
     </td>
     <td>https://www.youtube.com/watch?v=6U8DAvnhS1c Gundecha Brothers
     </td>
@@ -86,7 +86,7 @@ Final – 25%
   <tr>
     <td>Week 5<br></td>
     <td>Introduction to Taala:<br>
-        Basic taalas (16, 12, 10 beat), 
+        &nbsp;&nbsp;&nbsp;&nbsp;Basic taalas (16, 12, 10 beat), 
         percussion instruments (tabla, pakhawaj), 
         counting techniques
     </td>
@@ -98,7 +98,7 @@ Final – 25%
   <tr>
     <td>Week 6<br></td>
     <td>Introduction to Khayal:<br>
-        Composition in Raga Bhimpalasi
+        &nbsp;&nbsp;&nbsp;&nbsp;Composition in Raga Bhimpalasi
     </td>
     <td>https://www.youtube.com/watch?v=RvE00zRhxWI Hanuman Prasad, Rajan, and Sajan Mishra<br>
         https://www.youtube.com/watch?v=-f2LGUzlmNA Pandit Jasraj<br>
@@ -109,7 +109,7 @@ Final – 25%
   <tr>
     <td>Week 7<br></td>
     <td>Khayal Composition Practice:<br>
-        bandish in taala, 
+        &nbsp;&nbsp;&nbsp;&nbsp;bandish in taala, 
         taans (improvised phrases)
     </td>
     <td>https://www.youtube.com/watch?v=8UzWjZh7XJo Pandits Rajan & Sajan Mishra<br>
@@ -121,7 +121,7 @@ Final – 25%
   <tr>
     <td>Week 8<br></td>
     <td>Khayal Improvisation:<br>
-        Creating taans
+        &nbsp;&nbsp;&nbsp;&nbsp;Creating taans
     </td>
     <td>https://www.youtube.com/watch?v=pzIRNtrtpi0 Pandit Jasraj & Pandit Bhimsen Joshi<br>
         https://www.youtube.com/watch?v=TfnOBI2cMjE Pandit Kumar Gandharva<br>
