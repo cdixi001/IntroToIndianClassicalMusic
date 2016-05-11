@@ -37,61 +37,116 @@ Final – 25%
 
 <table>
   <tr>
-    <th>Week<br></th>
-    <th>Discussion Topic<br></th>
-    <th">Assignments/Reading</th>
+    <th><b>Week</b><br></th>
+    <th><b>Discussion Topic</b><br></th>
+    <th><b>Assignments/Reading</b></th>
   </tr>
+  
   <tr>
     <td>Week 1<br></td>
-    <td>Introduction to Hindustani Classical Music:<br>    theory, history, note practice<br></td>
-    <td>https://www.youtube.com/watch?v=hg6nTQFHf78 Pandit Ravi Shankar<br>https://www.youtube.com/watch?v=bKOGFXvTY5E Raga Nand (Anandi Kalyan)<br>https://www.youtube.com/watch?v=xhnxyhfEdGk Full Raga Nand<br>The Raga Guide: What is a Raga?</td>
+    <td>Introduction to Hindustani Classical Music:<br>
+        theory, history, note practice
+    </td>
+    <td>https://www.youtube.com/watch?v=hg6nTQFHf78 Pandit Ravi Shankar<br>
+        https://www.youtube.com/watch?v=bKOGFXvTY5E Raga Nand (Anandi Kalyan)<br>
+        https://www.youtube.com/watch?v=xhnxyhfEdGk Full Raga Nand<br>
+        The Raga Guide: What is a Raga?
+    </td>
   </tr>
+  
   <tr>
     <td>Week 2<br></td>
-    <td> Basics of a Raaga:<br>    aaroh, avroh, note practice (palTa)<br></td>
-    <td></td>
+    <td>Basics of a Raaga:<br>
+        aaroh, avroh, note practice (palTa)
+    </td>
+    <td>https://www.youtube.com/watch?v=vdcdbyGLz2M Pandit Nikhil Banerjee<br>
+        http://www.metmuseum.org/toah/hd/indi/hd_indi.htm Indian Instruments
+    </td>
   </tr>
+  
   <tr>
     <td>Week 3<br></td>
-    <td></td>
-    <td></td>
+    <td>Introduction to Dhrupad:<br>
+        Composition in Raga Bhoopali
+    </td>
+    <td>https://www.youtube.com/watch?v=0S-ca4pSLYY<br>
+        <u>The Raga Guide</u>: Raga Bhupali
+    </td>
+  </tr>  
+  
+  <tr>
+    <td>Week 4<br></td>
+    <td>Dhrupad Composition Practice:<br>
+        Structure of compositions
+    </td>
+    <td>https://www.youtube.com/watch?v=6U8DAvnhS1c Gundecha Brothers
+    </td>
   </tr>
+  
+  <tr>
+    <td>Week 5<br></td>
+    <td>Introduction to Taala:<br>
+        Basic taalas (16, 12, 10 beat), 
+        percussion instruments (tabla, pakhawaj), 
+        counting techniques
+    </td>
+    <td>http://raag-hindustani.com/Rhythm.html<br>
+        Rhythm. Read and watch videos on webpage
+    </td>
+  </tr>
+
+  <tr>
+    <td>Week 6<br></td>
+    <td>Introduction to Khayal:<br>
+        Composition in Raga Bhimpalasi
+    </td>
+    <td>https://www.youtube.com/watch?v=RvE00zRhxWI Hanuman Prasad, Rajan, and Sajan Mishra<br>
+        https://www.youtube.com/watch?v=-f2LGUzlmNA Pandit Jasraj<br>
+        <u>The Raga Guide</u>: Raga Bhimpalasi
+    </td>
+  </tr>
+
+  <tr>
+    <td>Week 7<br></td>
+    <td>Khayal Composition Practice:<br>
+        bandish in taala, 
+        taans (improvised phrases)
+    </td>
+    <td>https://www.youtube.com/watch?v=8UzWjZh7XJo Pandits Rajan & Sajan Mishra<br>
+        https://www.youtube.com/watch?v=2UH4X11mVk0 Ustad Rashid Khan<br>
+        Ruckert Pages 52-57
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Week 8<br></td>
+    <td>Khayal Improvisation:<br>
+        Creating taans
+    </td>
+    <td>https://www.youtube.com/watch?v=pzIRNtrtpi0 Pandit Jasraj & Pandit Bhimsen Joshi<br>
+        https://www.youtube.com/watch?v=TfnOBI2cMjE Pandit Kumar Gandharva<br>
+        https://www.youtube.com/watch?v=aPj8nRdJ3B8 Dr. Prabha Atre<br>
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td>Week 9<br></td>
+    <td>Review<br>
+    </td>
+    <td>http://www.parrikar.org/hindustani/bhoopali/ Rajan Parrikar on Bhoopali and Deshkar<br>
+        http://dhrupad.com/about-dhrupad/understanding-dhrupad/ Understanding Dhrupad
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Week 10<br></td>
+    <td>Final Performance:<br>
+        Dhrupad composition, 
+        Khayal bandish with taans
+    </td>
+    <td>
+    </td>
+  </tr>
+
 </table>
-
-Week	Discussion Topic	Assignments/Reading
-Week 1	Introduction to Hindustani Classical Music:
-theory, history, note practice	https://www.youtube.com/watch?v=hg6nTQFHf78 Pandit Ravi Shankar
-https://www.youtube.com/watch?v=bKOGFXvTY5E Raga Nand (Anandi Kalyan)
-https://www.youtube.com/watch?v=xhnxyhfEdGk Full Raga Nand
-The Raga Guide: What is a Raga?
-Week 2	Basics of  a Raaga:
-Aaroh, avroh, merukhand, note practice (palTa)	https://www.youtube.com/watch?v=vdcdbyGLz2M Pandit Nikhil Banerjee
-http://www.metmuseum.org/toah/hd/indi/hd_indi.htm Indian Instruments
-
-Week 3	Introduction to Dhrupad:
-Composition in Raga Bhoopali	https://www.youtube.com/watch?v=0S-ca4pSLYY
-The Raga Guide: Raga Bhupali
-Week 4	Dhrupad Composition Practice
-Structure of compositions	https://www.youtube.com/watch?v=6U8DAvnhS1c Gundecha Brothers
-
-Week 5	Introduction to Taala:
-basic taalas (16, 12, 10 beat), percussion instruments (tabla, pakhawaj), counting techniques	http://raag-hindustani.com/Rhythm.html
-Rhythm. Read and watch videos on webpage
-Week 6	Introduction to Khayal:
-Composition in Raga Bhimpalasi	https://www.youtube.com/watch?v=RvE00zRhxWI Hanuman Prasad, Rajan, and Sajan Mishra
-https://www.youtube.com/watch?v=-f2LGUzlmNA Pandit Jasraj
-The Raga Guide: Raga Bhimpalasi
-Week 7	Khayal Composition Practice:
-bandish in taala, taans (improvised phrases)	https://www.youtube.com/watch?v=8UzWjZh7XJo Pandits Rajan & Sajan Mishra
-https://www.youtube.com/watch?v=2UH4X11mVk0 Ustad Rashid Khan
-Ruckert Pages 52-57
-Week 8	Khayal Improvisation
-creating taans	https://www.youtube.com/watch?v=pzIRNtrtpi0 Pandit Jasraj & Pandit Bhimsen Joshi
-https://www.youtube.com/watch?v=TfnOBI2cMjE Pandit Kumar Gandharva
-https://www.youtube.com/watch?v=aPj8nRdJ3B8 Dr. Prabha Atre
-
-Week 9	Review	http://www.parrikar.org/hindustani/bhoopali/ Rajan Parrikar on Bhoopali and Deshkar
-Understanding Dhrupad
-
-Week 10	Final Performance	
-
