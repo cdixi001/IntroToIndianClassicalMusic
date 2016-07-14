@@ -64,7 +64,8 @@ Final – 25%
         &nbsp;&nbsp;&nbsp;&nbsp;aaroh, avroh, note practice (palTa)
     </td>
     <td>https://www.youtube.com/watch?v=vdcdbyGLz2M Pandit Nikhil Banerjee<br>
-        http://www.metmuseum.org/toah/hd/indi/hd_indi.htm Indian Instruments
+        http://www.metmuseum.org/toah/hd/indi/hd_indi.htm Indian Instruments<br>
+        https://www.youtube.com/watch?v=N00R-mhB3oQ
     </td>
   </tr>
   
